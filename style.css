@@ -373,7 +373,7 @@ section {
   width: 22px;
   height: 22px;
   border-radius: 50%;
-  background: #000000;
+  background: #363535;
   border: 3px solid #009688;
 }
 .experience .item::after {
